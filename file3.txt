@@ -1,2 +1,1 @@
-
-omething from feature2
+user1 to master
