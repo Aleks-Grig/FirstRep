@@ -1,1 +1,2 @@
-something from feature2
+
+omething from feature2
